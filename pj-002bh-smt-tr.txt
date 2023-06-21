@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-15052018-123037";"";
+"REFERENCE";"PJ-002BH-SMT-TR";"";
+"TraceParts.PartTitle";"PJ-002BH-SMT-TR - 2.5 mm Center Pin, 5.0 A, Right Angle, Surface Mount (SMT), Dc Power Jack Connector, RoHS Compliant";"";
+"TraceParts.InstanceId";"10-15052018-1230375J1PWWD0WNR6MOD32MDQV4GF8";"";
+"DESIGN";"2.5 mm Center Pin, 5.0 A, Right Angle, Surface Mount (SMT), Dc Power Jack Connector";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"CUI";"";
+"TraceParts.PartVersion";"1.0.1";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"CUI:/F_CUI/CUI.020/CUI.020.020/CUI.020.020.010/CUI.020.020.010.090/10-15052018-123037";"";
