@@ -1,0 +1,22 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# 1771114
+#
+DEF 1771114 J 0 40 Y Y 1 F N
+F0 "J" -400 130 50 H V L BNN
+F1 "1771114" 0 0 50 H I L BNN
+F2 "1771114" 0 0 50 H I L BNN
+F3 "" 0 0 50 H I L BNN
+F4 "Phoenix Contact" 0 0 50 H V C CNN "Manufacturer"
+F5 "1771114" 0 0 50 H V C CNN "Manufacturer Part Number"
+DRAW
+S -400 -100 400 100 0 0 10 f
+X 1 1 -300 -200 100 U 40 40 0 0 B
+X 2 2 -100 -200 100 U 40 40 0 0 B
+X 3 3 100 -200 100 U 40 40 0 0 B
+X 4 4 300 -200 100 U 40 40 0 0 B
+ENDDRAW
+ENDDEF
+#
+#End Library
